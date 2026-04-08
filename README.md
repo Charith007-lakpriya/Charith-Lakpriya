@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Charith Lakpriya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;Web+Developer;UI+Designer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Future+Computer+Scientist;Web+Developer;UI+Designer;Graphic+Designer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 ### 🌱 Learning
 
-* Advanced Web Development
+* Web Development
 * Flutter & Mobile Apps
 * Backend Development
 
