@@ -81,8 +81,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charith007-lakpriya&theme=tokyonight&hide_border=true"/>
-</p>&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charith007-lakpriya&theme=tokyonight&hide_border=true"/> 
 </p>
 
 ---
